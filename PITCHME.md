@@ -423,13 +423,6 @@ Note:
 
 
 
----?image=assets/images/gitpitch-audience.jpg
-@title[Logo Slide]
-<br><br><br>
-![Logo Slide](/assets/images/TianocoreLogo.png =10x)
-
-
-
 ---
 @title[Acknowledgements]
 #### <p align="center"><span class="gold"   >Acknowledgements</span></p>
