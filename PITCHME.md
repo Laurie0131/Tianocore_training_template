@@ -406,15 +406,20 @@ Note:
 <br>
 <br>
 <br>
-<p align="center"><span style="font-size:0.9em">Return to Training Table of contents for next presentation <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">link</a></span></p>
+<p align="center"><span style="font-size:0.9em">Return to Training Table of contents for next presentation <a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline">link</a></span></p>
 
 @snap[north span-30 ]
 <br>
 <br>
 <br>
-<a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki">
+<a href="https://github.com/tianocore-training/Tianocore_Training_Contents/wiki#schedule--outline">
 ![trainingLogo](/assets/images/returnTrainingLogo.png)</a>
 @snapend
+
+---?image=assets/images/gitpitch-audience.jpg
+@title[Logo Slide]
+<br><br><br>
+![Logo Slide](/assets/images/TianocoreLogo.png =10x)
 
 
 
